@@ -20,7 +20,7 @@
 首先，为开发工具安装Lombok插件。
 
 用Eclipse打开项目后，你的开发工程目录应该如下图所示：
-![开发界面](https://images.gitee.com/uploads/images/2020/0324/104050_1d27dea9_2182501.png "QQ截图20200324104038.png")
+![开发界面](https://github.com/coinxcoin/coin-exchange-cxc/images/2020/0324/104050_1d27dea9_2182501.png "QQ截图20200324104038.png")
 
 编译项目时，请先编译core以及xxx-core项目，否则会提示缺少类（本项目使用JPA QueryDsl实现表操作）。
 
