@@ -8,7 +8,7 @@ BIZZAN 开源数字货币交易系统
 ---
 ### 提问和建议
 - Telegram:https://t.me/coder06
-#### ![Topology-Image](https://github.com/coinxcoin/coin-exchange-cxc/blob/master/Topology-Image/contact-me.jpg)
+#### ![Contact-Image](https://github.com/coinxcoin/coin-exchange-cxc/blob/master/Topology-Image/contact-me.jpg)
 
 
 # 关于Q类的问题，请看往下看 服务部署准备
@@ -17,7 +17,7 @@ BIZZAN 开源数字货币交易系统
 #### 您的捐赠是我们开源最大的动力
 - TRX/USDT(波场/USDT)：TAMizy3UFuhgDVEHQ6tPNFRyQ1ZK6w4HGY
 
-#### ![Topology-Image](https://github.com/coinxcoin/coin-exchange-cxc/blob/master/Topology-Image/donate-me.jpg)
+#### ![Donate-Image](https://github.com/coinxcoin/coin-exchange-cxc/blob/master/Topology-Image/donate-me.jpg)
 
 #### BIZZAN是一个免费的、开源的数字货币交易系统，她使用目前最流行的Java框架和相关技术开发而成。
 
@@ -64,10 +64,7 @@ BIZZAN 开源数字货币交易系统
 - 测试环境地址 : 
 - https://www.bizzan-cxc.biz 账户：cxcuser 密码：123456
 - https://admin.bizzan-cxc.biz 账户：test 密码：123456
-### 加入我们
-    为方便大家交流和学习，请各位小伙伴加入QQ交流群：
-	*区块链交易所技术知识交流群【QQ群：735446452】【QQ:390330302】
-    Telegram:https://t.me/coder06
+
 ### 开源许可协议
     Apache
 
